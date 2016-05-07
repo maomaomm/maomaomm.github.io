@@ -4,7 +4,7 @@ bio:                'Testing ...'
 description:        "There's no post or blog in this. It's just for testing."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/cat.jpg'
 background:         'assets/img/strawberries.jpg'
 locale:             en_US
 url:                http://maomaomm.github.io
